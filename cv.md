@@ -13,7 +13,7 @@ I'm 19 years old. I live in the Russian Federation in the city of Ryazan. I am a
 1. VS code, Atom, Sublime Text, Open Server
 1. Git
 ## Code example: ## 
-``` ```
+```
 <!DOCTYPE html>
 <html lang="ru">
 	<head>
@@ -45,7 +45,6 @@ I'm 19 years old. I live in the Russian Federation in the city of Ryazan. I am a
 	</body>
 </html>
 ``` 
-
 ## Education: ##
 1. School №54
 1. Ryazan College of Electronics
