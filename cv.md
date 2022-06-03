@@ -1,4 +1,4 @@
-**# Maria Mikheeva #**
+# Maria Mikheeva #
 ## My contacts ##
 1. My city Ryazan. Russia
 1. My phone number +7 915-590-63-48
