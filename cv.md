@@ -44,7 +44,7 @@ I'm 19 years old. I live in the Russian Federation in the city of Ryazan. I am a
 		<p><u><b>Для инфузий:</b></u> тяжелые инфекции, вызванные чувствительными штаммами микроорганизмов: внебольничная пневмония, инфекционно-воспалительные заболевания органов малого таза.</p>
 	</body>
 </html>
-``` 
+```
 ## Education: ##
 1. School №54
 1. Ryazan College of Electronics
