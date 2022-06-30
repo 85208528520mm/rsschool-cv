@@ -16,7 +16,7 @@
  <li> My discord Maria(@8520852852mm)</li>
 </ol>
 <h2> About me: </h2>
-<img src="1.jpg" alt="my photo">
+<img src="mm.jpg" alt="my photo">
 I'm 19 years old. I live in the Russian Federation in the city of Ryazan. I am a college student. I am studying to be a programmer and in the future I want to connect my life with this field of activity. My strengths are patience, perseverance and easy learning.
 <h2> My skills: </h2>
 <ol>
