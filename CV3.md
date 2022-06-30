@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
 </head>
 <body>
     <h2> Maria Mikheeva </h2>
@@ -17,6 +16,7 @@
  <li> My discord Maria(@8520852852mm)</li>
 </ol>
 <h2> About me: </h2>
+<img src="1.jpg" alt="my photo">
 I'm 19 years old. I live in the Russian Federation in the city of Ryazan. I am a college student. I am studying to be a programmer and in the future I want to connect my life with this field of activity. My strengths are patience, perseverance and easy learning.
 <h2> My skills: </h2>
 <ol>
@@ -28,7 +28,7 @@ I'm 19 years old. I live in the Russian Federation in the city of Ryazan. I am a
 </ol>
 <h2>Code example</h2>
   <pre>
-    <cod>
+  <code>
 		<h3>Основные показания(по МКБ-10)</h3>
 		<ul>
 			<li>H66 Гнойный и неуточненный средний отит</li>
@@ -41,14 +41,13 @@ I'm 19 years old. I live in the Russian Federation in the city of Ryazan. I am a
 			<li><s>J32 Хронический синусит</s> (с 2012 года не рекомендуется)</li>
 			<li>K25 Язва желудка</li>
 			<li>K26 Язва двенадцатиперстной кишки</li>
-		</ul>
-    </cod>
+		</ul></code>
    </pre>
 <h2> Education: </h2>
 <ol>
 <li> School №54</li>
 <li> Ryazan College of Electronics</li>
-</li> JS/FE Pre-school 2022Q2</li>
+<li> JS/FE Pre-school 2022Q2</li>
 </ol>
 <h2> English level: </h2>
 A2
