@@ -26,8 +26,8 @@ I'm 19 years old. I live in the Russian Federation in the city of Ryazan. I am a
     <li> VS code, Atom, Sublime Text, Open Server</li>
     <li> Git</li>
 </ol>
-  
-<code>
+  <pre>
+    
 <!DOCTYPE html>
 <html lang="ru">
 	<head>
@@ -58,8 +58,8 @@ I'm 19 years old. I live in the Russian Federation in the city of Ryazan. I am a
 		<p><u><b>Для инфузий:</b></u> тяжелые инфекции, вызванные чувствительными штаммами микроорганизмов: внебольничная пневмония, инфекционно-воспалительные заболевания органов малого таза.</p>
 	</body>
 </html>
-</code>
 
+</pre>
 <h2> Education: </h2>
 <ol>
 <li> School №54</li>
